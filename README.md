@@ -175,7 +175,7 @@ Clone or download the repository
 
 Open the .ipynb notebook in Google Colab or Jupyter Notebook
 
-Upload the dataset files manually 
+Upload the dataset files manually (dataset not included due to restrictions)
 
 pip install pandas numpy matplotlib seaborn plotly
 
@@ -197,4 +197,4 @@ Time-series analysis on “Last Updated” information
 
 Priya Shinde
 Data Science Enthusiast
-GitHub: add your GitHub link here
+GitHub: https://github.com/priya-shinde12

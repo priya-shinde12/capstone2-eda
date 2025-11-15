@@ -180,6 +180,11 @@ Upload the dataset files manually (dataset not included due to restrictions)
 pip install pandas numpy matplotlib seaborn plotly
 
 Run all cells in order
+## 🔗 Google Colab Notebook
+
+You can view and run the full analysis directly on Google Colab:
+
+📄 Colab Link:(https://colab.research.google.com/drive/1nkUKpn9gzIWP2fdX02MmnYCCqtPNb696?usp=sharing)
 
 🚀 Future Enhancements
 
